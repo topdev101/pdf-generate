@@ -1,0 +1,7 @@
+{
+  "/api": {
+    "target": "https://app.greenbroad.co",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
